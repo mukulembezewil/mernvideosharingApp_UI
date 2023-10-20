@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/mernvideosharingApp_UI/static/js/main.cde1eefc.js",
-    "static/media/logo.png": "/mernvideosharingApp_UI/static/media/logo.12459a7bf1ccaea661c6.png",
-    "index.html": "/mernvideosharingApp_UI/index.html",
-    "main.cde1eefc.js.map": "/mernvideosharingApp_UI/static/js/main.cde1eefc.js.map"
+    "main.js": "./static/js/main.9e730f36.js",
+    "static/media/logo.png": "./static/media/logo.12459a7bf1ccaea661c6.png",
+    "index.html": "./index.html",
+    "main.9e730f36.js.map": "./static/js/main.9e730f36.js.map"
   },
   "entrypoints": [
-    "static/js/main.cde1eefc.js"
+    "static/js/main.9e730f36.js"
   ]
 }
