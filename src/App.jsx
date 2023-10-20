@@ -26,7 +26,7 @@ function App() {
 	return (
 		<ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
 			<Container>
-				<BrowserRouter>
+				<BrowserRouter basename="/mernvideosharingApp_UI">
 					<Menu
 						darkMode={darkMode}
 						setdarkMode={setdarkMode}
