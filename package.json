@@ -1,7 +1,7 @@
 {
 	"name": "mukulembeze_video_app",
 	"version": "0.1.0",
-	"homepage": "./",
+	"homepage": "https://mukulembezewil.github.io/mernvideosharingApp_UI/",
 	"private": true,
 	"dependencies": {
 		"@emotion/react": "^11.9.3",
